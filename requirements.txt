@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+imblearn
+mlxtend
+joblib
